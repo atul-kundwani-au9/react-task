@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+label{
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 20px !important;
+  font-weight: 500;
+}
+select{
+  padding-left: 0 !important;
+}
